@@ -1,0 +1,14 @@
+C:\Users\rosae\OneDrive\Área de Trabalho\ExerciciosTP\OperacoesFilas\bin\Debug\net8.0\OperacoesFilas.exe
+C:\Users\rosae\OneDrive\Área de Trabalho\ExerciciosTP\OperacoesFilas\bin\Debug\net8.0\OperacoesFilas.deps.json
+C:\Users\rosae\OneDrive\Área de Trabalho\ExerciciosTP\OperacoesFilas\bin\Debug\net8.0\OperacoesFilas.runtimeconfig.json
+C:\Users\rosae\OneDrive\Área de Trabalho\ExerciciosTP\OperacoesFilas\bin\Debug\net8.0\OperacoesFilas.dll
+C:\Users\rosae\OneDrive\Área de Trabalho\ExerciciosTP\OperacoesFilas\bin\Debug\net8.0\OperacoesFilas.pdb
+C:\Users\rosae\OneDrive\Área de Trabalho\ExerciciosTP\OperacoesFilas\obj\Debug\net8.0\OperacoesFilas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosae\OneDrive\Área de Trabalho\ExerciciosTP\OperacoesFilas\obj\Debug\net8.0\OperacoesFilas.AssemblyInfoInputs.cache
+C:\Users\rosae\OneDrive\Área de Trabalho\ExerciciosTP\OperacoesFilas\obj\Debug\net8.0\OperacoesFilas.AssemblyInfo.cs
+C:\Users\rosae\OneDrive\Área de Trabalho\ExerciciosTP\OperacoesFilas\obj\Debug\net8.0\OperacoesFilas.csproj.CoreCompileInputs.cache
+C:\Users\rosae\OneDrive\Área de Trabalho\ExerciciosTP\OperacoesFilas\obj\Debug\net8.0\OperacoesFilas.dll
+C:\Users\rosae\OneDrive\Área de Trabalho\ExerciciosTP\OperacoesFilas\obj\Debug\net8.0\refint\OperacoesFilas.dll
+C:\Users\rosae\OneDrive\Área de Trabalho\ExerciciosTP\OperacoesFilas\obj\Debug\net8.0\OperacoesFilas.pdb
+C:\Users\rosae\OneDrive\Área de Trabalho\ExerciciosTP\OperacoesFilas\obj\Debug\net8.0\OperacoesFilas.genruntimeconfig.cache
+C:\Users\rosae\OneDrive\Área de Trabalho\ExerciciosTP\OperacoesFilas\obj\Debug\net8.0\ref\OperacoesFilas.dll

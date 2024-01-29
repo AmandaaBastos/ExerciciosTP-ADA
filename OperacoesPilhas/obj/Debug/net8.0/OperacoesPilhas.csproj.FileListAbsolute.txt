@@ -1,0 +1,14 @@
+C:\Users\rosae\OneDrive\Área de Trabalho\ExerciciosTP\OperacoesPilhas\bin\Debug\net8.0\OperacoesPilhas.exe
+C:\Users\rosae\OneDrive\Área de Trabalho\ExerciciosTP\OperacoesPilhas\bin\Debug\net8.0\OperacoesPilhas.deps.json
+C:\Users\rosae\OneDrive\Área de Trabalho\ExerciciosTP\OperacoesPilhas\bin\Debug\net8.0\OperacoesPilhas.runtimeconfig.json
+C:\Users\rosae\OneDrive\Área de Trabalho\ExerciciosTP\OperacoesPilhas\bin\Debug\net8.0\OperacoesPilhas.dll
+C:\Users\rosae\OneDrive\Área de Trabalho\ExerciciosTP\OperacoesPilhas\bin\Debug\net8.0\OperacoesPilhas.pdb
+C:\Users\rosae\OneDrive\Área de Trabalho\ExerciciosTP\OperacoesPilhas\obj\Debug\net8.0\OperacoesPilhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosae\OneDrive\Área de Trabalho\ExerciciosTP\OperacoesPilhas\obj\Debug\net8.0\OperacoesPilhas.AssemblyInfoInputs.cache
+C:\Users\rosae\OneDrive\Área de Trabalho\ExerciciosTP\OperacoesPilhas\obj\Debug\net8.0\OperacoesPilhas.AssemblyInfo.cs
+C:\Users\rosae\OneDrive\Área de Trabalho\ExerciciosTP\OperacoesPilhas\obj\Debug\net8.0\OperacoesPilhas.csproj.CoreCompileInputs.cache
+C:\Users\rosae\OneDrive\Área de Trabalho\ExerciciosTP\OperacoesPilhas\obj\Debug\net8.0\OperacoesPilhas.dll
+C:\Users\rosae\OneDrive\Área de Trabalho\ExerciciosTP\OperacoesPilhas\obj\Debug\net8.0\refint\OperacoesPilhas.dll
+C:\Users\rosae\OneDrive\Área de Trabalho\ExerciciosTP\OperacoesPilhas\obj\Debug\net8.0\OperacoesPilhas.pdb
+C:\Users\rosae\OneDrive\Área de Trabalho\ExerciciosTP\OperacoesPilhas\obj\Debug\net8.0\OperacoesPilhas.genruntimeconfig.cache
+C:\Users\rosae\OneDrive\Área de Trabalho\ExerciciosTP\OperacoesPilhas\obj\Debug\net8.0\ref\OperacoesPilhas.dll

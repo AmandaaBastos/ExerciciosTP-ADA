@@ -1,0 +1,14 @@
+C:\Users\rosae\OneDrive\Área de Trabalho\ExerciciosTP\OperacoesDicionario\bin\Debug\net8.0\OperacoesDicionario.exe
+C:\Users\rosae\OneDrive\Área de Trabalho\ExerciciosTP\OperacoesDicionario\bin\Debug\net8.0\OperacoesDicionario.deps.json
+C:\Users\rosae\OneDrive\Área de Trabalho\ExerciciosTP\OperacoesDicionario\bin\Debug\net8.0\OperacoesDicionario.runtimeconfig.json
+C:\Users\rosae\OneDrive\Área de Trabalho\ExerciciosTP\OperacoesDicionario\bin\Debug\net8.0\OperacoesDicionario.dll
+C:\Users\rosae\OneDrive\Área de Trabalho\ExerciciosTP\OperacoesDicionario\bin\Debug\net8.0\OperacoesDicionario.pdb
+C:\Users\rosae\OneDrive\Área de Trabalho\ExerciciosTP\OperacoesDicionario\obj\Debug\net8.0\OperacoesDicionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosae\OneDrive\Área de Trabalho\ExerciciosTP\OperacoesDicionario\obj\Debug\net8.0\OperacoesDicionario.AssemblyInfoInputs.cache
+C:\Users\rosae\OneDrive\Área de Trabalho\ExerciciosTP\OperacoesDicionario\obj\Debug\net8.0\OperacoesDicionario.AssemblyInfo.cs
+C:\Users\rosae\OneDrive\Área de Trabalho\ExerciciosTP\OperacoesDicionario\obj\Debug\net8.0\OperacoesDicionario.csproj.CoreCompileInputs.cache
+C:\Users\rosae\OneDrive\Área de Trabalho\ExerciciosTP\OperacoesDicionario\obj\Debug\net8.0\OperacoesDicionario.dll
+C:\Users\rosae\OneDrive\Área de Trabalho\ExerciciosTP\OperacoesDicionario\obj\Debug\net8.0\refint\OperacoesDicionario.dll
+C:\Users\rosae\OneDrive\Área de Trabalho\ExerciciosTP\OperacoesDicionario\obj\Debug\net8.0\OperacoesDicionario.pdb
+C:\Users\rosae\OneDrive\Área de Trabalho\ExerciciosTP\OperacoesDicionario\obj\Debug\net8.0\OperacoesDicionario.genruntimeconfig.cache
+C:\Users\rosae\OneDrive\Área de Trabalho\ExerciciosTP\OperacoesDicionario\obj\Debug\net8.0\ref\OperacoesDicionario.dll
